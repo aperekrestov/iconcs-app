@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiconcs_app=self.webpackChunkiconcs_app||[]).push([[138],{138:(c,n,s)=>{s.r(n),s.d(n,{default:()=>u});var e=s(848);const u=function(){return(0,e.jsx)("h1",{children:"About"})}}}]);
